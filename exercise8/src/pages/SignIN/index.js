@@ -1,10 +1,10 @@
 /* eslint-disable prettier/prettier */
 import React from 'react';
 import {Text, View, StyleSheet} from 'react-native';
-import TextInput from '../../components/Atoms/TextInput';
-import Gap from '../../components/Atoms/Gap';
-import Button from '../../components/Atoms/Button';
-import Button1 from '../../components/Atoms/Button1';
+import TextInput from '../../components/atoms/TextInput';
+import Gap from '../../components/atoms/Gap';
+import Button from '../../components/atoms/Button';
+import Button1 from '../../components/atoms/Button1';
 
 const SignIN = () => {
   return (
